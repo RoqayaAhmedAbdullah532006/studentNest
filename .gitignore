@@ -1,0 +1,7 @@
+# Local configuration files
+.env
+*.log
+
+# IDE files
+.vscode/
+.idea/
